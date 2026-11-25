@@ -1,0 +1,20 @@
+Lindgren Möbelsnickeri – färdig webbplats
+Uppdaterad 2026-11-25
+
+PUBLICERA PÅ GITHUB PAGES ELLER WEBBHOTELL
+Packa upp ZIP-filen och lägg hela innehållet i webbplatsens rot. index.html ska ligga direkt i roten. Behåll assets/ och alla övriga filer. Enbart index.html räcker inte. Inga installationer eller byggkommandon behövs.
+
+KONTAKT
+Telefon- och mejllänkar fungerar direkt. Kontaktfälten öppnar ett ifyllt mejlutkast i besökarens mejlprogram. Besökaren skickar själv där. Inget meddelande skickas automatiskt från servern.
+
+INNEHÅLL
+11 HTML-sidor med möbler, inredning, specialsnickerier, tre köksprojekt, Johannes historia och kontakt.
+Egna projektbilder från den tidigare hemsidan finns lokalt i assets. Gallerierna visar hela bilder och kan öppnas större. Karlevi behåller fotografkrediteringen Emmi Roosling.
+Kundcitaten kommer från företagets egen hemsida. Inget externt stjärnbetyg har lagts till.
+Källa: https://www.lindgrenmobelsnickeri.se/
+
+SEO OCH PRESTANDA
+Unika sidtitlar och beskrivningar, en huvudrubrik per sida, sidlänkar, canonical, Open Graph, strukturerad företagsdata, sitemap.xml och robots.txt. Canonical och sitemap pekar mot företagets riktiga domän. Bilderna är lokala och komprimerade, med fördröjd laddning längre ner på sidorna. Typsnitt är lokala. Inga annonserings- eller analysverktyg. Bra teknisk struktur garanterar inte en viss placering i Google.
+
+KONTROLLERAT
+Mobilbredd 320 och 390 pixlar samt dator. Mobilmenyer, bildvisning, interna länkar, kontaktlänkar och strukturerad data kontrollerade. Eliams produktfilter, Reco-widget och videouppspelning kontrollerade.
